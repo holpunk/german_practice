@@ -8,3 +8,6 @@
  B: Vielen Dank! Das klingt gut. (Thank you very much! That sounds great.)
  A: Gern geschehen! Guten Appetit! (You're welcome! Enjoy your meal!)
  B: Danke, dir auch einen guten Tag! (Thank you, have a great day too!)
+
+
+ 
