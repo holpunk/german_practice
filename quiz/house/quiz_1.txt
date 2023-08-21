@@ -1,4 +1,12 @@
 
+Question 1: What is the German word for "kitchen"?
+a) Bad
+b) Wohnzimmer
+c) Küche
+d) Schlafzimmer
+
+Question 2: Which word means "bed" in German?
+a) Stuhl
 b) Bett
 c) Tisch
 d) Schrank
