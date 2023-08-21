@@ -1,0 +1,50 @@
+Krankenhaus - Hospital
+Patient - Patient
+Arzt - Doctor
+Krankenschwester - Nurse
+Operation - Surgery
+Untersuchung - Examination
+Notaufnahme - Emergency room
+Bettenstation - Ward
+Röntgen - X-ray
+Labor - Laboratory
+Krankenakte - Medical record
+Krankenversicherung - Health insurance
+Medikamente - Medications
+Schmerzen - Pain
+Diagnose - Diagnosis
+Therapie - Therapy
+Pflegepersonal - Nursing staff
+Visite - Ward round
+Krankenbett - Hospital bed
+Besucher - Visitor
+Wartezimmer - Waiting room
+Anmeldung - Registration
+Infusion - IV drip
+Verband - Bandage
+Operationssaal - Operating room
+Blutdruck - Blood pressure
+Fieber - Fever
+Rezept - Prescription
+Krankheit - Illness
+Krankenpflege - Patient care
+Genesung - Recovery
+Arzneimittel - Pharmaceuticals
+Schwesternstation - Nurses' station
+Anästhesie - Anesthesia
+Impfung - Vaccination
+Wunde - Wound
+Entlassung - Discharge
+Besuchszeiten - Visiting hours
+Gesundheitszustand - Health condition
+MRT (Magnetresonanztomographie) - MRI (Magnetic Resonance Imaging)
+CT (Computertomographie) - CT scan (Computed Tomography)
+OP-Tisch - Operation table
+Krankenhausbett - Hospital cot
+Krankenhauspersonal - Hospital personnel
+Notarzt - Emergency doctor
+Krankentrage - Stretcher
+Facharzt - Specialist doctor
+Laborergebnisse - Laboratory results
+Blutprobe - Blood sample
+Pflegedienst - Nursing service
