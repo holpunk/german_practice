@@ -1,0 +1,17 @@
+Herr Kulkarni: Guten Tag. Ich habe einen Tisch für zwei Personen reserviert.
+
+Kellner: Um wie viel Uhr?
+
+Herr Kulkarni: Um 18:30 Uhr.
+
+Kellner: Auf welchem Namen?
+
+Herr Kulkarni: Kulkarni
+
+Kellner: Ok. Ich sehe nach, ob Ihr Tisch schon bereit ist.
+
+*Der Kellner geht weg.
+
+Kellner: Folgen Sie bitte mit mir. Ich werde Sie zu Ihrem Tisch geleiten.
+
+*Sie gehen zum Tisch.
