@@ -1,0 +1,20 @@
+Cloud-Computing - Cloud computing
+AWS-Dienste - AWS services
+Datenspeicherung - Data storage
+Datenübertragung - Data transfer
+Skalierbarkeit - Scalability
+Serverlose Architektur - Serverless architecture
+Virtuelle Maschinen - Virtual machines
+Netzwerkkonnektivität - Network connectivity
+Sicherheitsgruppen - Security groups
+Lastenausgleich - Load balancing
+Elastische IP-Adressen - Elastic IP addresses
+Automatisierung - Automation
+Datenbankdienste - Database services
+Datenverschlüsselung - Data encryption
+Compliance-Anforderungen - Compliance requirements
+Hochverfügbarkeit - High availability
+Kostenoptimierung - Cost optimization
+Containerisierung - Containerization
+Ausfallsicherheit - Fault tolerance
+Cloud-Sicherheit - Cloud security
