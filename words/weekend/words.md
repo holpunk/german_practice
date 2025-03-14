@@ -1,50 +1,50 @@
-| Word                | Translation 1           | Translation 2          | Translation 3          |
-|---------------------|-------------------------|------------------------|------------------------|
-| Wochenende          | Weekend                 | वीकेंड                 | सप्ताहांत              |
-| Freizeit            | Leisure                 | फुर्सत                 | अवकाश                  |
-| Entspannung         | Relaxation              | आराम                   | विश्राम                |
-| Ruhe                | Rest                    | आराम                   | शांति                  |
-| Freizeitaktivitäten | Recreational activities | मनोरंजन क्रियाएँ       | आनंदमय क्रियाएँ        |
-| Pause               | Break                   | विराम                  | रुकावट                 |
-| Feierabend          | Off-duty                | काम के बाद का समय      | काम बाद का समय         |
-| Abschalten          | Unwind                  | छूटकारा पाना           | आरा��� करना            |
-| Kurzurlaub          | Getaway                 | छुट्टी                 | आवास                   |
-| Brunch              | Brunch                  | ब्रंच                  | ब्रंच                  |
-| Gemütlich           | Cozy                    | आरामदायक               | सुखद                   |
-| Geselligkeit        | Socializing             | मिलन-जुलन              | सामाजिकता              |
-| Erkunden            | Explore                 | अन्वेषण करना           | खोजना                  |
-| Hobby               | Hobby                   | शौक                    | शौक                    |
-| Filmabend           | Movie night             | फिल्म रात              | चलचित्र रात्रि         |
-| Im Freien           | Outdoors                | बाहर                   | बाहर                   |
-| Entspannen          | Chill                   | धीरे-धीरे आराम करना    | धीरे-धीरे शांत होना    |
-| Treffen             | Get-together            | मिलन-सम्मेलन           | मिलन-सम्मेलन           |
-| Auszeit             | Timeout                 | समय बाहर निकलना        | बहुत समय तक कुछ न करना |
-| Samstag             | Saturday                | शनिवार                 | शनिवार                 |
-| Sonntag             | Sunday                  | रविवार                 | रविवार                 |
-| Wochenendkrieger    | Weekend warrior         | वीकेंड योद्धा          |                        |
-| Sonntagsausflug     | Sunday drive            | रविवार की गाड़ी यात्रा | रविवार की गाड़ी यात्रा |
-| Gelassenheit        | Serenity                | शांति                  | शांति                  |
-| Erholung            | Recreation              | मनोरंजन                | मनोरंजन                |
-| Abenteuer           | Adventure               | साहस                   | साहसिक गतिविधियाँ      |
-| Spaß                | Fun                     | मजा                    | मजा                    |
-| Zeitvertreib        | Pastime                 | मनोरंजन                | मनोरंजन                |
-| Natur               | Nature                  | प्रकृति                | प्राकृतिक              |
-| Picknick            | Picnic                  | पिकनिक                 | पिकनिक                 |
-| Genießen            | Enjoy                   | आनंद लेना              | आनंद लेना              |
-| Gemütlichkeit       | Comfort                 | सुख                    | सुख                    |
-| Bequemlichkeit      | Convenience             | सुविधा                 | सुविधाएँ               |
-| Erinnerungen        | Memories                | यादें                  | स्मृतियाँ              |
-| Entdecken           | Discover                | खोजना                  | खोजना                  |
-| Geschenk            | Gift                    | उपहार                  | उपहार                  |
-| Verwöhnen           | Pamper                  | आलंब                   | देखभाल करना            |
-| Familie             | Family                  | परिवार                 | परिवार                 |
-| Zeit zusammen       | Quality time            | गुणवत्ता का समय        | गुणवत्ता का समय        |
-| Zusammensein        | Togetherness            | एकता                   | एकता                   |
-| Freundschaft        | Friendship              | मित्रता                | मित्रता                |
-| Lachen              | Laughter                | हँसी                   | हँसी                   |
-| Erneuerung          | Renewal                 | नवीनीकरण               | पुनर्नवीकरण            |
-| Energie tanken      | Recharge                | ऊर्जा पुनर्चारण करना   | ऊर्जा पुनर्चारण करना   |
-| Verbindung          | Connection              | संबंध                  | संबंध                  |
-| Gemeinschaft        | Community               | समुदाय                 | समुदाय                 |
-| Veranstaltung       | Event                   | घटना                   | घटना                   |
-| Erholungsort        | Retreat                 | आश्रय                  | आश्रय                  |
+| Word                | Translation 1           | Translation 2          |
+|---------------------|-------------------------|------------------------|
+| Wochenende          | Weekend                 | वीकेंड                 |
+| Freizeit            | Leisure                 | फुर्सत                 |
+| Entspannung         | Relaxation              | आराम                   |
+| Ruhe                | Rest                    | आराम                   |
+| Freizeitaktivitäten | Recreational activities | मनोरंजन क्रियाएँ       |
+| Pause               | Break                   | विराम                  |
+| Feierabend          | Off-duty                | काम के बाद का समय      |
+| Abschalten          | Unwind                  | छूटकारा पाना           |
+| Kurzurlaub          | Getaway                 | छुट्टी                 |
+| Brunch              | Brunch                  | ब्रंच                  |
+| Gemütlich           | Cozy                    | आरामदायक               |
+| Geselligkeit        | Socializing             | मिलन-जुलन              |
+| Erkunden            | Explore                 | अन्वेषण करना           |
+| Hobby               | Hobby                   | शौक                    |
+| Filmabend           | Movie night             | फिल्म रात              |
+| Im Freien           | Outdoors                | बाहर                   |
+| Entspannen          | Chill                   | धीरे-धीरे आराम करना    |
+| Treffen             | Get-together            | मिलन-सम्मेलन           |
+| Auszeit             | Timeout                 | समय बाहर निकलना        |
+| Samstag             | Saturday                | शनिवार                 |
+| Sonntag             | Sunday                  | रविवार                 |
+| Wochenendkrieger    | Weekend warrior         | वीकेंड योद्धा          |
+| Sonntagsausflug     | Sunday drive            | रविवार की गाड़ी यात्रा |
+| Gelassenheit        | Serenity                | शांति                  |
+| Erholung            | Recreation              | मनोरंजन                |
+| Abenteuer           | Adventure               | साहस                   |
+| Spaß                | Fun                     | मजा                    |
+| Zeitvertreib        | Pastime                 | मनोरंजन                |
+| Natur               | Nature                  | प्रकृति                |
+| Picknick            | Picnic                  | पिकनिक                 |
+| Genießen            | Enjoy                   | आनंद लेना              |
+| Gemütlichkeit       | Comfort                 | सुख                    |
+| Bequemlichkeit      | Convenience             | सुविधा                 |
+| Erinnerungen        | Memories                | यादें                  |
+| Entdecken           | Discover                | खोजना                  |
+| Geschenk            | Gift                    | उपहार                  |
+| Verwöhnen           | Pamper                  | आलंब                   |
+| Familie             | Family                  | परिवार                 |
+| Zeit zusammen       | Quality time            | गुणवत्ता का समय        |
+| Zusammensein        | Togetherness            | एकता                   |
+| Freundschaft        | Friendship              | मित्रता                |
+| Lachen              | Laughter                | हँसी                   |
+| Erneuerung          | Renewal                 | नवीनीकरण               |
+| Energie tanken      | Recharge                | ऊर्जा पुनर्चारण करना   |
+| Verbindung          | Connection              | संबंध                  |
+| Gemeinschaft        | Community               | समुदाय                 |
+| Veranstaltung       | Event                   | घटना                   |
+| Erholungsort        | Retreat                 | आश्रय                  |
