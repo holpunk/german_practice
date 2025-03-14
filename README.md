@@ -1,166 +1,40 @@
-# AWS credentials and config files
-/.aws/credentials
-/.aws/config
+# German Language Learning Project
 
-# AWS Elastic Beanstalk files
-.elasticbeanstalk/*
+Welcome to the German Language Learning Project! This project is dedicated to learning the German language through multiple platforms. It focuses on learning new words daily and provides various resources and exercises to improve your language skills.
 
-# AWS SAM (Serverless Application Model) files
-.sam/
+## Table of Contents
 
-# AWS CloudFormation files
-.cfn/
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-# AWS CLI cache
-.aws/sso/cache/
-.aws/cli/cache/
+## Overview
 
-# Terraform files (if using Terraform with AWS)
-*.tfstate
-*.tfstate.backup
-.terraform/
+The German Language Learning Project is designed to assist learners at all stages. The project features multiple modules and platforms that help users:
+- Learn and review German vocabulary daily.
+- Improve listening, speaking, and reading comprehension.
+- Explore interactive exercises and quizzes.
+- Integrate learning resources from various platforms.
 
-# Serverless Framework files
-.serverless/
+This project is ideal for beginners who want to build a solid foundation in German and advanced learners looking to enhance their vocabulary and language skills.
 
-# Local environment variables files
-.env
-.env.*
+## Features
 
-# Log files
-*.log
+- **Daily Vocabulary:** Learn a new German word or phrase every day.
+- **Interactive Lessons:** Access interactive lessons covering grammar, pronunciation, and basic conversation skills.
+- **Multi-Platform Support:** Use the project on various platforms including web and mobile.
+- **Progress Tracking:** Monitor your learning progress and review past lessons.
+- **Custom Quizzes:** Test your knowledge with a variety of quizzes and exercises.
 
-# OS generated files
-.DS_Store
-Thumbs.db
-*.swp
-*.swo
-*.swn
-._*
+## Installation
 
-# Node.js
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+To get started with the project, follow these steps:
 
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.python-version
-*.env
-
-# Java
-*.class
-*.jar
-*.war
-*.ear
-*.iml
-*.ipr
-*.iws
-*.class
-*.project
-*.settings/
-*.idea/
-*.vscode/
-
-# Ruby
-*.gem
-*.rbc
-.bundle/
-.rvmrc
-.rbenv-version
-
-# PHP
-vendor/
-*.phpunit.result.cache
-
-# Go
-bin/
-*.exe
-*.test
-*.out
-
-# C/C++
-*.obj
-*.o
-*.so
-*.exe
-*.dll
-*.dylib
-*.class
-
-# Rust
-/target/
-*.rs.bk
-
-# Haskell
-*.hi
-*.dyn_hi
-*.dyn_o
-*.o
-*.chi
-*.chs.h
-dist/
-dist-newstyle/
-cabal.project.local
-*.prof
-
-# Swift
-*.xcworkspace
-*.xcuserstate
-*.xcodeproj
-*.xcuserdata
-DerivedData/
-build/
-
-# IDEs and Editors
-## JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
-*.iml
-.idea/
-out/
-*.ipr
-*.iws
-
-## Eclipse
-.project
-.metadata/
-*.tmp
-*.bak
-*.swp
-*~.nib
-.localhistory/
-
-## Visual Studio Code
-.vscode/
-*.code-workspace
-
-## Sublime Text
-*.sublime-workspace
-*.sublime-project
-
-## Vim
-*.swp
-*.swo
-*.swn
-
-## Emacs
-*~
-\#*\#
-.\#*
-
-## NetBeans
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-*.nb-gradle
-
-# End of file markers
-*.bak
-*.old
-*.backup
-*.orig
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/holpunk/german_practice.git
